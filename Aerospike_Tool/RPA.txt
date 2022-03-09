@@ -1,5 +1,5 @@
-# Engine name: ASPIRER
-# Mo 12. Okt 15:14:21 2020
+# Engine name: Test
+# Mo 22. Okt 15:14:21 2021
 #
 #***************************************************************************************************
 # Propellant Specification
@@ -34,7 +34,7 @@ Specific heat (V=const)	     4.7783	     4.7783	     4.4996	     2.8745	  kJ/(kg
         Gas constant	     0.3756	     0.3756	     0.3723	     0.3616	  kJ/(kg·K)	 
 Molecular weight (M)	    22.1356	    22.1356	    22.3331	    22.9922	           	 
 Molecular weight (MW)	     0.0221	     0.0221	     0.0223	     0.0230	           	 
-             Density	     1.8655	     1.8655	     1.1483	     0.1315	      kg/m³	 
+             Density	     1.8655	     1.8655	     1.1483	     0.1315	      kg/m? 
       Sonic velocity	  1097.3923	  1097.3923	  1065.1729	   933.0939	        m/s	 
             Velocity	     0.0000	     0.0000	  1065.1729	  2336.2890	        m/s	 
          Mach number	     0.0000	     0.0000	     1.0000	     2.5038	           	 
